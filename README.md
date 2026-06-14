@@ -8,7 +8,7 @@ JavaScript developer.
 
 <!-- Optional: add a screenshot once deployed
 ![Portfolio screenshot](./public/screenshot.png)
--->
+---->
 
 ## Built with
 
