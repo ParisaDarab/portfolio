@@ -4,7 +4,7 @@ My personal portfolio, built from scratch with the React ecosystem. A fast,
 responsive, accessible single-page site showcasing my work as a full-stack
 JavaScript developer.
 
-🔗 **Live site:** [add your deployed URL here]
+🔗 **Live site:** https://parisadarabdev.vercel.app/
 
 <!-- Optional: add a screenshot once deployed
 ![Portfolio screenshot](./public/screenshot.png)
